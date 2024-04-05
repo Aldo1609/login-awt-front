@@ -7,9 +7,10 @@ Este projecto es un sistema de login, se implementa un proceso de autenticación
 
 🔧 Back-end desarrollado en [Springboot 3.0]
 
+    Link del repositorio: https://github.com/Aldo1609/login-jwt
+
 🔧 Front-end desarrollado en  [Angular 16.2.12]
 
-    Link del repositorio:
 
 🔧 Base de datos en Postgresql [Version 15.6]
 
